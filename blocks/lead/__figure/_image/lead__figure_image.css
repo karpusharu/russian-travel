@@ -4,7 +4,7 @@
     width:100%;
     max-width: 984px;
     max-height: 615px;
-    margin:0 auto;    
+    margin:0 auto;
 }
 
 @media screen and (max-width:1279px) {
@@ -17,17 +17,15 @@
 
 @media screen and (max-width:1023px) {
     .lead__figure-image {
-        min-height: 480px;
-        min-width:768px;
-        margin:0 -24px;
+        max-height: 480px;
+        max-width:768px;
     }
 }
 
 @media screen and (max-width:767px) {
     .lead__figure-image {
         padding-top:40px;
-        min-width: 320px;
-        min-height: 200px;
-        margin:0 -16px;
+        max-width: 320px;
+        max-height: 200px;
     }
 }

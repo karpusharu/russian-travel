@@ -13,6 +13,7 @@
     .place {
         grid-template-columns: 440px 456px;
         column-gap: 32px;
+        max-width: 928px;
     }
 }
 
