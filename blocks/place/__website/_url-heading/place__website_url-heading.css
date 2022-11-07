@@ -1,4 +1,4 @@
-.place__website_url-heading {
+.place__website-url-heading {
     max-width: 456px;
     max-height: 12px;
     font-family: 'Inter';
@@ -11,7 +11,7 @@
 }
 
 @media screen and (max-width:767px) {
-    .place__website_url-heading {
+    .place__website-url-heading {
         font-size: 12px;
         line-height: 12px;
     }

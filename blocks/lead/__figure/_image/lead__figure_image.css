@@ -1,4 +1,4 @@
-.lead__figure_image {
+.lead__figure-image {
     display: block;
     padding-top:64px;
     width:100%;
@@ -8,7 +8,7 @@
 }
 
 @media screen and (max-width:1279px) {
-    .lead__figure_image {
+    .lead__figure-image {
         padding-top:56px;
         max-width: 928px;
         max-height: 580px;
@@ -16,7 +16,7 @@
 }
 
 @media screen and (max-width:1023px) {
-    .lead__figure_image {
+    .lead__figure-image {
         min-height: 480px;
         min-width:768px;
         margin:0 -24px;
@@ -24,7 +24,7 @@
 }
 
 @media screen and (max-width:767px) {
-    .lead__figure_image {
+    .lead__figure-image {
         padding-top:40px;
         min-width: 320px;
         min-height: 200px;
