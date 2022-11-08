@@ -6,18 +6,18 @@
 
 @media screen and (max-width:1279px) {
     .intro {
-    padding: 92px 0 0 28px;
+    padding: 92px 28px 0;
     }
 }
 
 @media screen and (max-width:1023px) {
     .intro {
-        padding: 88px 0 0 24px;
+        padding: 88px 24px 0;
     }
 }
 
 @media screen and (max-width:767px) {
     .intro {
-        padding: 64px 0 0 16px;
+        padding: 64px 16px 0;
     }
 }
