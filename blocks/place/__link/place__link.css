@@ -1,7 +1,6 @@
-.place__website-link {
+.place__link {
     text-decoration: underline;
     max-width: 456px;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -9,7 +8,7 @@
     color:white;
 }
 
-.place__website-link:hover {
+.place__link:hover {
     transition: opacity .3s ease;
     opacity: .8;
 }

@@ -1,15 +1,15 @@
 .footer {
-    max-width: 1184px;
-    padding-top:92px;
-    padding-bottom:24px;
-    display:flex;
+    display: flex;
     justify-content: space-between;
+    max-width: 1184px;
+    padding-top: 92px;
+    padding-bottom: 24px;
 }
 
 @media screen and (max-width:1279px) {
     .footer {
         max-width: 928px;
-        margin:0 auto;
+        margin: 0 auto;
     }
 }
 

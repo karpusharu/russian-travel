@@ -1,5 +1,5 @@
 .place__text {
-    display:flex;
+    display: flex;
     flex-direction: column;
     gap: 26px;
 }
@@ -7,5 +7,11 @@
 @media screen and (max-width:1023px) {
     .place__text {
         gap: 25px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .place__text {
+        padding: 0 16px;
     }
 }
