@@ -4,6 +4,7 @@
     max-width: 1184px;
     padding-top: 92px;
     padding-bottom: 24px;
+    min-width: 80%;
 }
 
 @media screen and (max-width:1279px) {
